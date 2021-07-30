@@ -32,8 +32,8 @@ Para concluír este processo e ciclo de aprendizagem do programa Vamo AI, fizemo
 </td>
   <td align="center"><br>
         <a href="">
-            <img src="https://github.com/giselemanuel/projeto3-programa-Ifood-backend/blob/main/imagens/jennifer.jpg" width="150px;" alt="Jennifer Stefanni" style="max-width:100%;">
-            <br><sub><b>Jennifer Stéfani</b></sub><br>
+            <img src="https://github.com/giselemanuel/projeto3-programa-Ifood-backend/blob/main/imagens/jennifer.jpg" width="150px;" alt="Jênnifer Stéfani" style="max-width:100%;">
+            <br><sub><b>Jênnifer Stéfani</b></sub><br>
         <p align="center">
             </a>    
             <a href="https://github.com/jenniferstefaniks">
