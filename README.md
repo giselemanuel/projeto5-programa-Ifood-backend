@@ -6,14 +6,20 @@
 
 Este é o último projeto da formação de Analista de dados do programa VamoAI do [IFood](https://www.linkedin.com/posts/ifood-_inteligaeanciaartificial-tecnologia-dados-activity-6727679437791342592-opfn) com parceria da [Resilia Educação](https://www.linkedin.com/school/resilia-educacao/) duranta o módulo os alunos aprenderam os conceitos de Introdução a dados, análise exploratória de dados e storytelling.
 
-Para concluír este processo e ciclo de aprendizagem do programa Vamo AI, fizemos uma análise exploratória dos dados extraído das API do Spotify, Youtube, Netflix, Google Maps para contar a história da Jennifer Stefani Silva, utilizando a ferramenta [Tableau](https://www.tableau.com) onde buscamos responder  "Qual história ela conta da história dela?" através dos dados analisados e exibidos através de Dashboards.
+Para concluír este processo e ciclo de aprendizagem do programa Vamo AI, fizemos uma análise exploratória dos dados extraído das API do Spotify, Netflix para contar a história da Jennifer Stefani Silva, utilizando a ferramenta [Tableau](https://www.tableau.com) onde buscamos responder  "Qual história ela conta da história dela?" através dos dados analisados e exibidos através de Dashboards.
 
 ### História da Jennifer 
 ---
 
+![Hitória Jenifer](https://github.com/giselemanuel/projeto5-programa-Ifood-backend/blob/main/Imagens/Screen%20Shot%202021-07-30%20at%2000.23.46.png)
+
 ### Visualização dos Dados
 ---
-
+![Dash1](https://github.com/giselemanuel/projeto5-programa-Ifood-backend/blob/main/Imagens/Dash1.jpg)
+![Dash2](https://github.com/giselemanuel/projeto5-programa-Ifood-backend/blob/main/Imagens/Dash2.jpg)
+![Dash3](https://github.com/giselemanuel/projeto5-programa-Ifood-backend/blob/main/Imagens/Dash3.JPG)
+![Dahs4](https://github.com/giselemanuel/projeto5-programa-Ifood-backend/blob/main/Imagens/Dash4.JPG)
+![Dahs5](https://github.com/giselemanuel/projeto5-programa-Ifood-backend/blob/main/Imagens/Dash5.jpeg)
 
 ### Informações do Grupo
 ---
